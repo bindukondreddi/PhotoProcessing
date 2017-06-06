@@ -1,10 +1,8 @@
-# SENG6270-Photoproessing
-
-Author:    SENG 62670 Group 4 
+Photoproessing
 
 # Introduction #
 
-This project is our Photo Processing application written in PHP. 
+Photo Processing application written in PHP. 
 
 ## Dependencies ##
 * PHP
